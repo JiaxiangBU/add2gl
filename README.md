@@ -37,6 +37,28 @@ get_issue_content(
 )
 ```
 
+## Citations
+
+Jiaxiang Li. (2019, September 30). JiaxiangBU/add2gl: add2gl 0.1.0
+(Version v0.1.0). Zenodo. <http://doi.org/10.5281/zenodo.3464628>
+
+``` bibtex
+@misc{jiaxiang_li_2019_3464628,
+  author       = {Jiaxiang Li},
+  title        = {JiaxiangBU/add2gl: add2gl 0.1.0},
+  month        = sep,
+  year         = 2019,
+  doi          = {10.5281/zenodo.3464628},
+  url          = {https://doi.org/10.5281/zenodo.3464628}
+}
+```
+
+If you use add2gl, I would be very grateful if you can add a citation in
+your published work. By citing add2gl, beyond acknowledging the work,
+you contribute to make it more visible and guarantee its growing and
+sustainability. For citation, please use the BibTex or the citation
+content.
+
 -----
 
 <h4 align="center">
