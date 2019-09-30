@@ -8,7 +8,8 @@
 [![DOI](https://zenodo.org/badge/211744624.svg)](https://zenodo.org/badge/latestdoi/211744624)
 <!-- badges: end -->
 
-The goal of add2gl is to use GitLab API with R.
+The goal of add2gl is to use GitLab API with R. If you use GitLab, use
+[add2gh](https://github.com/JiaxiangBU/add2gh).
 
 ## Installation
 
