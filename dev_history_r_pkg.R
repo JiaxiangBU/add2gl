@@ -24,6 +24,7 @@ file.edit("DESCRIPTION")
 
 file.edit("DESCRIPTION")
 clipr::write_clip('`r add2pkg::add_disclaimer("Jiaxiang Li")`')
+use_readme_rmd()
 file.edit("README.Rmd")
 rmarkdown::render("README.Rmd")
 rstudioapi::viewer("README.html")
