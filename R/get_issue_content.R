@@ -45,7 +45,7 @@ get_log <- function(request,
 #'
 #' @export
 get_own_project <- function(.token, .api_url) {
-    request <- glue::glue('{.api_url}/api/v4/projects?owned=true')
+    request <- glue::glue('{.api_url}/api/v4/projects?owned=true&order_by=last_activity_at')
     get_log(request, .token, is_df = TRUE)
 }
 
