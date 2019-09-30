@@ -8,16 +8,16 @@
 [![DOI](https://zenodo.org/badge/211744624.svg)](https://zenodo.org/badge/latestdoi/211744624)
 <!-- badges: end -->
 
-The goal of add2gl is to use GitLab API with R. If you use GitLab, use
+The goal of add2gl is to use GitLab API with R. If you use GitHub, use
 [add2gh](https://github.com/JiaxiangBU/add2gh).
 
 ## Installation
 
-You can install the released version of add2gl from
-[CRAN](https://CRAN.R-project.org) with:
+And the development version from [GitHub](https://github.com/) with:
 
 ``` r
-install.packages("add2gl")
+# install.packages("devtools")
+devtools::install_github("JiaxiangBU/add2gl")
 ```
 
 ## Example
