@@ -19,8 +19,10 @@ knitr::opts_chunk$set(
 <!-- badges: end -->
 
 The goal of add2gl is to use GitLab API with R. If you use GitHub, use [add2gh].
+If you prefer to use GitLab using Python, try [python-gitlab].
 
 [add2gh]: https://github.com/JiaxiangBU/add2gh
+[python-gitlab]: https://python-gitlab.readthedocs.io
 
 ## Installation
 

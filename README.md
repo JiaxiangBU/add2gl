@@ -9,7 +9,9 @@
 <!-- badges: end -->
 
 The goal of add2gl is to use GitLab API with R. If you use GitHub, use
-[add2gh](https://github.com/JiaxiangBU/add2gh).
+[add2gh](https://github.com/JiaxiangBU/add2gh). If you prefer to use
+GitLab using Python, try
+[python-gitlab](https://python-gitlab.readthedocs.io).
 
 ## Installation
 
@@ -43,11 +45,13 @@ Jiaxiang Li. (2019, September 30). JiaxiangBU/add2gl: add2gl 0.1.0
 (Version v0.1.0). Zenodo. <http://doi.org/10.5281/zenodo.3464628>
 
 ``` bibtex
-@misc{jiaxiang_li_2019_3464628,
+@software{jiaxiang_li_2019_3464628,
   author       = {Jiaxiang Li},
   title        = {JiaxiangBU/add2gl: add2gl 0.1.0},
   month        = sep,
   year         = 2019,
+  publisher    = {Zenodo},
+  version      = {v0.1.0},
   doi          = {10.5281/zenodo.3464628},
   url          = {https://doi.org/10.5281/zenodo.3464628}
 }
@@ -70,8 +74,9 @@ content.
 <h6 align="center">
 
 Please note that the `add2gl` project is released with a [Contributor
-Code of Conduct](.github/CODE_OF_CONDUCT.md).<br>By contributing to this
-project, you agree to abide by its terms.
+Code of
+Conduct](https://github.com/JiaxiangBU/add2gl/blob/master/CODE_OF_CONDUCT.md).<br>By
+contributing to this project, you agree to abide by its terms.
 
 </h6>
 
@@ -83,6 +88,7 @@ project, you agree to abide by its terms.
 
 <h6 align="center">
 
-MIT © [Jiaxiang Li](LICENSE.md)
+MIT © [Jiaxiang
+Li](https://github.com/JiaxiangBU/add2gl/blob/master/LICENSE.md)
 
 </h6>
